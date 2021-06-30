@@ -1,0 +1,10 @@
+{
+  "name": "dez-setup-examples",
+  "version": "1.0.0",
+  "description": "Examples for react setup",
+  "private": true,
+  "scripts": {},
+  "keywords": [],
+  "author": "EDEKA DIGITAL GmbH",
+  "license": "UNLICENSED"
+}
