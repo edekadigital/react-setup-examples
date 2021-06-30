@@ -1,5 +1,8 @@
 # node dependencies
 node_modules/
 
+# generated files
+dist/
+
 # os
 .DS_Store
