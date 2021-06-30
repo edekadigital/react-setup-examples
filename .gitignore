@@ -4,5 +4,8 @@ node_modules/
 # generated files
 dist/
 
+# code coverage
+coverage/
+
 # os
 .DS_Store
